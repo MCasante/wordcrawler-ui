@@ -1,3 +1,6 @@
+# Front-end to consume wordCrawler api
+Just a tool developed for a college project
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
