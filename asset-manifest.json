@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/wordcrawler-ui/static/css/main.1c6e0414.chunk.css",
-    "main.js": "/wordcrawler-ui/static/js/main.139435b1.chunk.js",
-    "main.js.map": "/wordcrawler-ui/static/js/main.139435b1.chunk.js.map",
+    "main.css": "/wordcrawler-ui/static/css/main.ab2bf9f6.chunk.css",
+    "main.js": "/wordcrawler-ui/static/js/main.9f4f4a30.chunk.js",
+    "main.js.map": "/wordcrawler-ui/static/js/main.9f4f4a30.chunk.js.map",
     "runtime-main.js": "/wordcrawler-ui/static/js/runtime-main.d739cdf9.js",
     "runtime-main.js.map": "/wordcrawler-ui/static/js/runtime-main.d739cdf9.js.map",
     "static/js/2.47622e62.chunk.js": "/wordcrawler-ui/static/js/2.47622e62.chunk.js",
     "static/js/2.47622e62.chunk.js.map": "/wordcrawler-ui/static/js/2.47622e62.chunk.js.map",
     "index.html": "/wordcrawler-ui/index.html",
-    "precache-manifest.0150ca201dbc2f204886d6d4f05e1e27.js": "/wordcrawler-ui/precache-manifest.0150ca201dbc2f204886d6d4f05e1e27.js",
+    "precache-manifest.c86b55731524de4ecf9c12f77cd9ce5e.js": "/wordcrawler-ui/precache-manifest.c86b55731524de4ecf9c12f77cd9ce5e.js",
     "service-worker.js": "/wordcrawler-ui/service-worker.js",
-    "static/css/main.1c6e0414.chunk.css.map": "/wordcrawler-ui/static/css/main.1c6e0414.chunk.css.map",
+    "static/css/main.ab2bf9f6.chunk.css.map": "/wordcrawler-ui/static/css/main.ab2bf9f6.chunk.css.map",
     "static/js/2.47622e62.chunk.js.LICENSE.txt": "/wordcrawler-ui/static/js/2.47622e62.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d739cdf9.js",
     "static/js/2.47622e62.chunk.js",
-    "static/css/main.1c6e0414.chunk.css",
-    "static/js/main.139435b1.chunk.js"
+    "static/css/main.ab2bf9f6.chunk.css",
+    "static/js/main.9f4f4a30.chunk.js"
   ]
 }

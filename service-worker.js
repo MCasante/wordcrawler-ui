@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/wordcrawler-ui/precache-manifest.0150ca201dbc2f204886d6d4f05e1e27.js"
+  "/wordcrawler-ui/precache-manifest.c86b55731524de4ecf9c12f77cd9ce5e.js"
 );
 
 self.addEventListener('message', (event) => {
