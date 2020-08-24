@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/wordcrawler-ui/static/css/main.d6224036.chunk.css",
+    "main.js": "/wordcrawler-ui/static/js/main.c17183fc.chunk.js",
+    "main.js.map": "/wordcrawler-ui/static/js/main.c17183fc.chunk.js.map",
+    "runtime-main.js": "/wordcrawler-ui/static/js/runtime-main.d739cdf9.js",
+    "runtime-main.js.map": "/wordcrawler-ui/static/js/runtime-main.d739cdf9.js.map",
+    "static/js/2.47622e62.chunk.js": "/wordcrawler-ui/static/js/2.47622e62.chunk.js",
+    "static/js/2.47622e62.chunk.js.map": "/wordcrawler-ui/static/js/2.47622e62.chunk.js.map",
+    "index.html": "/wordcrawler-ui/index.html",
+    "precache-manifest.9a2d9faa41ef7df0f2845da7e7bcef98.js": "/wordcrawler-ui/precache-manifest.9a2d9faa41ef7df0f2845da7e7bcef98.js",
+    "service-worker.js": "/wordcrawler-ui/service-worker.js",
+    "static/css/main.d6224036.chunk.css.map": "/wordcrawler-ui/static/css/main.d6224036.chunk.css.map",
+    "static/js/2.47622e62.chunk.js.LICENSE.txt": "/wordcrawler-ui/static/js/2.47622e62.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d739cdf9.js",
+    "static/js/2.47622e62.chunk.js",
+    "static/css/main.d6224036.chunk.css",
+    "static/js/main.c17183fc.chunk.js"
+  ]
+}
