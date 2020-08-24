@@ -33,7 +33,7 @@ code {
   margin: 0 auto;
   width: 100%;
   max-width: 1300px;
-  padding: 4rem;
+  padding: 4rem 1rem;
   display: grid;
   grid-gap: 4rem;
   grid-template-columns: 1fr;

@@ -21,8 +21,9 @@ const CrawlerUI = props => {
         incidences.forEach(inc => keysSet.add(inc.name))
         const keysArray = Array.from(keysSet)
         const newIncidences = keysArray.map(key => {
-            const b = incidences.filter(a => a.name === key)
-            return { name: key, incidences: b.reduce((acc, next) => acc.incidences + next.incidences) }
+            const b = incidences.filter(a => a.name === key).map(a => a.incidences)
+            const n = b.reduce((acc, next) => acc + next)
+            return { name: key, incidences: n }
         })
         setIncidences(newIncidences)
     }
