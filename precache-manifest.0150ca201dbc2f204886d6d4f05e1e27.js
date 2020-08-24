@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3063941a2926c8d7c5a458e907866620",
+    "revision": "9dda27c145df12ed855f7ce540f2e7df",
     "url": "/wordcrawler-ui/index.html"
   },
   {
-    "revision": "94adfacc348c8093d02b",
-    "url": "/wordcrawler-ui/static/css/main.d6224036.chunk.css"
+    "revision": "696dcf62c2447e591efc",
+    "url": "/wordcrawler-ui/static/css/main.1c6e0414.chunk.css"
   },
   {
     "revision": "4e1df6e04ea391598aee",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/wordcrawler-ui/static/js/2.47622e62.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "94adfacc348c8093d02b",
-    "url": "/wordcrawler-ui/static/js/main.c17183fc.chunk.js"
+    "revision": "696dcf62c2447e591efc",
+    "url": "/wordcrawler-ui/static/js/main.139435b1.chunk.js"
   },
   {
     "revision": "ccf94a5761202ae4ac1f",
